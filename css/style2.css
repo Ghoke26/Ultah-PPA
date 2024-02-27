@@ -1,0 +1,57 @@
+
+
+.costum-background{
+    font-family: "Caveat", cursive;
+    background-color: #faf0fc;
+    
+    /* background-color:#fff100; */
+}
+
+
+img{
+    margin-top: 50px;
+    width: 180px;
+    cursor: pointer;
+}
+
+.tengah{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.warna-text{
+    color: red;
+}
+
+.teks-center{
+    text-align: center;
+}
+
+.kotak{
+    margin-top: 100px;
+
+    height: auto;
+}
+
+
+
+
+.img-el{
+    margin-top: -5px;
+    border-radius: 20%;
+    width: 200px;
+    padding-bottom: 20px;
+}
+
+.tengah{
+    text-align: center;
+}
+
+.navbar{
+    background-color:#fff100;
+    /* background-color: rgb(8, 243, 161); */
+    height: 40px;
+    
+}
